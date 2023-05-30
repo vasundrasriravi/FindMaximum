@@ -12,7 +12,8 @@ To write a program to find the maximum of a list of numbers.
 ```
 #Developed by: VASUNDRA SRI R
 #RegisterNumber: 212222230168
-i)	# To find the maximum of marks using the list method sort.
+```
+i) # To find the maximum of marks using the list method sort.
 ```Python
 def max_marks(marks):
     marks.sort()
